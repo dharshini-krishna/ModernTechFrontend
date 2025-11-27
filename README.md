@@ -1,7 +1,9 @@
 # ModernTechFrontend
 TO SEE : https://replit.com/@dharshinikucs20/ModernTechFrontend
+
 TOO SEE THE UIUX : https://d58b74b7-8d67-42a5-b584-374aca3ec13d-00-2gbc08vo3v6mb.picard.replit.dev/
-I build to upgrade our sns acadamy website by enhancing the UIUX 
+
+I build and interface designing to upgrade our sns acadamy website by enhancing the UIUX 
 # ModernTechFrontend
 
 I build to upgrade our SNS Academy website by enhancing the UI/UX.
